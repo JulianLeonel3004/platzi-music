@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "platzi-music",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "platzi.music.com",
+  "appName": "platzi-music",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
